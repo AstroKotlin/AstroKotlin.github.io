@@ -1,3 +1,3 @@
-# AstroUI.github.io
+# AstroKotlin.github.io
 
 test
