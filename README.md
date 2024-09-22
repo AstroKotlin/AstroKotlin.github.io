@@ -1,3 +1,0 @@
-# AstroKotlin.github.io
-
-test
